@@ -1,16 +1,16 @@
----
+﻿---
 # Display name
-title: Nelson Bighetti
+title: Minghang Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Chemical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Tianjin University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Fluid Dynamic
+- Chemical Engineering
+- Matlab
 
 # Education to show in About widget
 education:
