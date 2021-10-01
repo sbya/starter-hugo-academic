@@ -17,10 +17,10 @@ organizations:
 bio: My research interests include CFD, multiphase flow and Programme with C++, Matlab.
 
 # Interests to show in About widget
-# Interests:
-# - Email minghang_zhang@tju.edu.cn
-# - Mobile +86 16622725275
-# - Wechat 16622725275
+ Contacts:
+ - Email minghang_zhang@tju.edu.cn
+ - Mobile +86 16622725275
+ - Wechat 16622725275
 
 # Education to show in About widget
 education:
