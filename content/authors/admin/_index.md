@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include CFD, multiphase flow and Programme with C++, Matlab.
 
 # Interests to show in About widget
-Contacts:
+Interests:
 - Email minghang_zhang@tju.edu.cn
 - Mobile +86 16622725275
 - Wechat 16622725275
@@ -27,10 +27,10 @@ education:
   courses:
   - course: Master in Chemical Engineering
     institution: Tianjin University
-    year: 2022
+    year: 2019_2022
   - course: Bachelor in Chemical Engineering
     institution: North University of China
-    year: 2019
+    year: 2015_2019
   # - course: BSc in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2008
@@ -70,9 +70,9 @@ email: ""
 highlight_name: true
 ---
 
-Hi, I am Minghang Zhang. At present, I am pursuing my master degree in chemical engineering at Tianjin University.
+Hi, I am Zhang Minhang, a third-year master student from Tianjin University. 
 
-My research focuses on CFD simulation of gas-liquid-liquid multiphase flow in stirring equipment and simulation of composite materials in realistic thermal fields.
+My research focus on the simulation of gas-liquid-liquid multiphase flow in mixing equipment. Also, I have a collaborative project with my classmates, which involves thermal field simulation of thermal conductive materials in practical scenarios.
 
 
 {{< icon name="download" pack="fas" >}} If you want know more about me, please download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
