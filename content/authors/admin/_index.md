@@ -17,18 +17,18 @@ organizations:
 bio: My research interests include CFD, multiphase flow and Programme with C++, Matlab.
 
 # Interests to show in About widget
-interests:
-- Computational Fluid Dynamic
-- Multiphase flow
-- Programme with C++, Matlab
+Contacts:
+- Email minghang_zhang@tju.edu.cn
+- Mobile +86 16622725275
+- Wechat 16622725275
 
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Chemical Engineering
+  - course: Master in Chemical Engineering
     institution: Tianjin University
     year: 2022
-  - course: BEng in Chemical Engineering
+  - course: Bachelor in Chemical Engineering
     institution: North University of China
     year: 2019
   # - course: BSc in Artificial Intelligence
@@ -39,10 +39,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'
 # - icon: zhihu
 #   icon_pack: fab
 #   link: https://www.zhihu.com/people/zhang-bo-yan-20-98
@@ -70,8 +70,9 @@ email: ""
 highlight_name: true
 ---
 
-Majoring in chemical engineering, my main research area during my master's degree is multiphase flow CFD simulation. It involves basic knowledge of computational fluid dynamics, multiphase flow and rotating machinery. In addition, I have a collaborative project with my classmates, which focuses on the effect of the structure of a thermally conductive material on heat dissipation and the thermal conductivity of that material in different practical scenarios.
+Hi, I am Minghang Zhang. At present, I am pursuing my master degree in chemical engineering at Tianjin University.
 
-I have been using MATLAB for data analysis, such as nonlinear fitting and Fast Fourier Transform, during my undergraduate and master's degree. I also have a strong interest in programming and I am currently learning C++ and trying to develop a CFD solver.
+My research focuses on CFD simulation of gas-liquid-liquid multiphase flow in stirring equipment and simulation of composite materials in realistic thermal fields.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} If you want know more about me, please download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
