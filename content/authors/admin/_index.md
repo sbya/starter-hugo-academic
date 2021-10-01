@@ -1,4 +1,4 @@
----
+﻿---
 # Display name
 title: Minghang Zhang
 
@@ -27,10 +27,10 @@ education:
   courses:
   - course: Ms in Chemical Engineering
     institution: Tianjin University
-    year: 2019-2021
+    year: 2019
   - course: Bacheor in Chemical Engineering
     institution: North University of China
-    year: 2015-2019
+    year: 2015
   - 
 
 # Social/Academic Networking
