@@ -25,15 +25,15 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.zhihu.com/people/zhang-bo-yan-20-98
   date_end: ""
-  date_start: "" 
+  date_start: "2021-01-01" 
   description: A Q&A online forum where I often upload articles about CFD and MATLAB
   organization: Zhihu
   organization_url: https://www.zhihu.com
   title: My teaching articles
   url: "https://www.zhihu.com/people/zhang-bo-yan-20-98"
 - certificate_url: https://space.bilibili.com/39072783?from=search&seid=14361728732764341010&spm_id_from=333.337.0.0
-  date_end: ""
-  date_start: ""
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
   description: A video website like Youtube, where I often upload some instructional videos about CFD
   organization: Bilibili
   organization_url: https://www.bilibili.com
