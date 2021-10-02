@@ -23,17 +23,17 @@ bio: My research interests include CFD, multiphase flow and Programme with C++, 
 #  - Wechat 16622725275
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Master in Chemical Engineering
-    institution: Tianjin University
-    year: 2019_2022
-  - course: Bachelor in Chemical Engineering
-    institution: North University of China
-    year: 2015_2019
+# education:
+#   courses:
+#   - course: Master in Chemical Engineering
+#     institution: Tianjin University
+#     year: 2022
+#   - course: Bachelor in Chemical Engineering
+#     institution: North University of China
+#     year: 2019
   # - course: BSc in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
-  #   year: 2008
+  #   year: 2008 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
