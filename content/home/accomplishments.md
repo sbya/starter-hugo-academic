@@ -32,22 +32,22 @@ item:
 #   title: Neural Networks and Deep Learning
 #   url: ""
 #
-# - certificate_url: ""
-- date_end: ""
-  date_start: "A Q&A online forum where I often upload articles about CFD and MATLAB"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+- certificate_url: ""
+  date_end: ""
+  date_start: ""
+  description: A Q&A online forum where I often upload articles about CFD and MATLAB
   organization: "Zhihu"
   organization_url: https://www.zhihu.com/people/zhang-bo-yan-20-98
   title: zhihu
   url: https://www.zhihu.com/people/zhang-bo-yan-20-98
 
-#  - certificate_url: ""
-- date_end: ""
+- certificate_url: ""
+  date_end: ""
   date_start: ""
-  description: "A video website like Youtube, where I often upload some instructional videos about CFD"
+  description: A video website like Youtube, where I often upload some instructional videos about CFD
   organization: Bilibili
   organization_url: https://space.bilibili.com/39072783?from=search&seid=14361728732764341010&spm_id_from=333.337.0.0
-  title: 'Object-Oriented Programming in R'
+  title: 'Bilibili'
   url: "https://space.bilibili.com/39072783?from=search&seid=14361728732764341010&spm_id_from=333.337.0.0"
 
 design:
