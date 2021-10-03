@@ -32,12 +32,11 @@ item:
   title: My teaching articles
   url: https://www.zhihu.com/people/zhang-bo-yan-20-98/posts
 - # certificate_url: ""
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_end: ""
+  date_start: "2020-01-01"
   description: A video website like Youtube, where I often upload some instructional videos about CFD
   organization: Bilibili
   organization_url: https://www.bilibili.com
-  company_logo: org-gc
   title: My teaching videos
   url: https://space.bilibili.com/39072783?from=search&seid=14361728732764341010&spm_id_from=333.337.0.0
 # - certificate_url: https://www.datacamp.com

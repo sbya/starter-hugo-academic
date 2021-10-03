@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -23,10 +23,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: 'CFD'
+    category: 'CFD'
+    publication_type: 'Research Paper'
+    author: 'Minghang Zhang'
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 3
 ---
 
 {{% callout note %}}
