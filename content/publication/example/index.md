@@ -29,19 +29,7 @@ publication_types: ["2"]
 publication: Chemical Engineering Journal
 publication_short: CEJ
 
-abstract: Owing to the rapid development of highly integrated electronic devices, research on reliable and efficient
-Thermal interface materials (TIMs) has promising prospects. Boron nitride (BN) is regarded as an excellent
-functional filler due to its high in-plane thermal conductivity and low cost. However, the fabrication of highly
-thermally conductive polymer-based composites with multifunctional properties remains challenging. Presented
-here is an efficient and scalable technique to realize the robust neuron-like microstructure network with oriented
-BN platelets formed in Polyethersulfone (PES) and Polyvinylidene fluoride (PVDF) based composites. The
-neuron-like microstructure, with well-developed synapses, guarantee effective thermal pathways and robust
-interface interaction under complex conditions. The oriented BN layer in the composite ensures a high thermal
-conductivity of 12.13 W m􀀀 1 K􀀀 1, indicating a thermal enhancement efficiency of 156.6% per 1 vol% filler
-compared to the polymer-based matrix. Combined with outstanding electrical resistivity over 1015 Ω⋅cm and
-superior usage stability over 120 ◦C, the composite also exhibits superior performance in application tests in the
-mobile communication system and laptop chip cooling module making it promising in the intelligent robot industry
-and advanced electronic packaging field.
+abstract: Owing to the rapid development of highly integrated electronic devices, research on reliable and efficient Thermal interface materials (TIMs) has promising prospects. Boron nitride (BN) is regarded as an excellent functional filler due to its high in-plane thermal conductivity and low cost. However, the fabrication of highly thermally conductive polymer-based composites with multifunctional properties remains challenging. Presented here is an efficient and scalable technique to realize the robust neuron-like microstructure network with oriented BN platelets formed in Polyethersulfone (PES) and Polyvinylidene fluoride (PVDF) based composites. The neuron-like microstructure, with well-developed synapses, guarantee effective thermal pathways and robust interface interaction under complex conditions. The oriented BN layer in the composite ensures a high thermal conductivity of 12.13 W m􀀀 1 K􀀀 1, indicating a thermal enhancement efficiency of 156.6% per 1 vol% filler compared to the polymer-based matrix. Combined with outstanding electrical resistivity over 1015 Ω⋅cm and superior usage stability over 120 ◦C, the composite also exhibits superior performance in application tests in the mobile communication system and laptop chip cooling module making it promising in the intelligent robot industry and advanced electronic packaging field.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -68,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'featured.jpg'
+  caption: ''
   focal_point: ""
   preview_only: false
 
